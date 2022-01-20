@@ -117,9 +117,9 @@ Write a program that takes an object and returns an array which contains two arr
 ```
 [//]: # (autograding info start)
 ## Results
-  [![Results badge](../../blob/badges/.github/badges/autograding/badge.svg)](https://github.com/DigitalCareerInstitute/PB-objects-pt1/actions)
+  [![Results badge](../../blob/badges/.github/badges/main/badge.svg)](https://github.com/SebastianSalasDCI/test_autograd_2/actions)
   
-  [Results Details](https://github.com/DigitalCareerInstitute/PB-objects-pt1/actions)
+  [Results Details](https://github.com/SebastianSalasDCI/test_autograd_2/actions)
   
   ### Debugging your code
   > [reading the test outputs](https://github.com/DCI-EdTech/autograding-setup/wiki/Reading-test-outputs)
@@ -130,7 +130,7 @@ Write a program that takes an object and returns an array which contains two arr
   - Run `npm test` in the terminal. You will see where your solution differs from the expected result.
   
   #### 2. Inspecting the test output on GitHub
-  - Go to the [Actions tab of your exercise repo](https://github.com/DigitalCareerInstitute/PB-objects-pt1/actions)
+  - Go to the [Actions tab of your exercise repo](https://github.com/SebastianSalasDCI/test_autograd_2/actions)
   - You will see a list of the test runs. Click on the topmost one.
   - Click on 'Autograding'
   - Expand the item 'Run DCI-EdTech/autograding-action@main'
